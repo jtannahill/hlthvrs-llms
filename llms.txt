@@ -1,0 +1,75 @@
+# HLTHvrs (HealthVerse)
+
+> HLTHvrs (HealthVerse) is an AI-driven, HIPAA-compliant marketing intelligence platform built for mental health and behavioral health providers. It serves as a command center for patient acquisition — from campaign creation and multi-channel deployment to appointment-level ROI tracking. Built by 1ness Strategies (1nessAgency) in New York City.
+>
+> Founded by James Tannahill, President of Plocamium Holdings and Co-Founder of 1nessAgency.
+>
+> Contact: hello@1nessagency.com
+> Location: New York, NY 10036
+> Last reviewed: 2026-02-28
+
+For comprehensive LLM guidance including entity data, citable facts, and access
+policies, see the full file:
+[Full LLM Guidance](https://hlthvrs.com/llms-full.txt)
+
+## About
+
+- [Home](https://hlthvrs.com/): Platform overview and value proposition
+- [Features](https://hlthvrs.com/features): Six core capabilities — Clients, Budgets, Creative, Campaigns, Social, Reports
+- [Pricing](https://hlthvrs.com/pricing): Four tiers from solo practitioners to enterprise
+
+## Platform Features
+
+- Clients: Manage clinic accounts, contacts, and campaigns from one view
+- Budgets: Set, track, and reallocate ad spend across channels in real time
+- Creative: Build HIPAA-safe ad creative with templates and approval workflows
+- Campaigns: Launch and monitor Google, Meta, and directory campaigns in one place
+- Social: Schedule and publish across social channels without leaving the platform
+- Reports: Attribution tracking by campaign tied to booked appointments, not vanity metrics
+
+## Target Audience
+
+- Solo psychiatric practitioners
+- Therapists and wellness clinics
+- Multi-provider behavioral health practices
+- Healthcare marketing agencies
+- Clinical groups seeking patient acquisition tools
+
+## Pricing
+
+- Align: $295/month — HIPAA-compliant intake dashboard, essential lead capture, limited reporting
+- Engage: $695/month — Lead source attribution, full Google & Meta Ads integration, campaign tracking
+- Elevate: $1,495/month — ROI tracking by campaign, EHR & CRM integration, advanced analytics
+- Thrive: $2,495/month — Full data analytics suite, end-to-end patient funnel automation, strategic growth support
+- All tiers: complimentary first month, 20% savings on annual billing
+
+## Integrations
+
+- Google Ads
+- Meta (Facebook/Instagram)
+- Healthcare directories
+- EHR/CRM systems (Elevate tier and above)
+
+## Key Differentiators
+
+- HIPAA-compliant by design — not retrofitted
+- Measures booked evaluations and appointments, not clicks
+- Built specifically for behavioral health and psychiatric practices
+- Consolidates campaigns, creative, social, and reporting in one platform
+
+## Parent Company
+
+- [1nessAgency](https://www.1nessagency.com/): Compliance-focused digital marketing agency — Google Premier Partner, LegitScript Certified
+
+## Legal
+
+- [Privacy Policy](https://hlthvrs.com/privacy): Data handling and HIPAA compliance
+- [Terms of Service](https://hlthvrs.com/terms): Platform usage terms
+
+## Engage
+
+- [Get Started](https://hlthvrs.com/pricing): Start with a free 30-day trial
+
+## Optional
+
+- [Full LLM Guidance](https://hlthvrs.com/llms-full.txt): Comprehensive access directives, entity data, and detailed platform documentation
